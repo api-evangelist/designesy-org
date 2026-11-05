@@ -65,4 +65,120 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 designesy-org is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://designesy.org/
+
+**Areas:** Design verification · Design contracts · UI scoring · Accessibility checks · Motion design · Design tokens · Developer tools
+
+## designesy-org on APIs.io
+
+Everything profiled for designesy-org is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/designesy-org/](https://apis.io/providers/designesy-org/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Designesy API](https://apis.io/apis/designesy-org/designesy-api/) — API for Designesy platform as documented
+- [designesy-org API](https://apis.io/apis/designesy-org/designesy-org-api/) — designesy-org API as documented publicly: 5 operations. Contract generated from the documentation by API Evangelist (2026-11-05); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (5)
+
+The data models the API reads and writes.
+
+- [GetContractsDesignSystemJsonResponse](https://apis.io/schemas/designesy-org/designesy-org-get-contracts-design-system-json-response/)
+- [GetKitsDesignReviewJsonResponse](https://apis.io/schemas/designesy-org/designesy-org-get-kits-design-review-json-response/)
+- [GetOpenResponse](https://apis.io/schemas/designesy-org/designesy-org-get-open-response/)
+- [PostApiMcpRequest](https://apis.io/schemas/designesy-org/designesy-org-post-api-mcp-request/)
+- [PostApiScoreRequest](https://apis.io/schemas/designesy-org/designesy-org-post-api-score-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Designesy Org Context](https://apis.io/jsonld/designesy-org/designesy-org-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [designesy-org API Rules](https://apis.io/rules/designesy-org/designesy-org-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Designesy Org Domain Security](https://apis.io/security/designesy-org/designesy-org-domain-security/)
+- [Designesy Org Vulnerability Disclosure](https://apis.io/security/designesy-org/designesy-org-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Designesy Org Plans Pricing](https://apis.io/plans/designesy-org/designesy-org-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://designesy.org/)
+- [Documentation](https://www.designesy.org/docs)
+- [Pricing](https://www.designesy.org/pricing)
+- [Changelog](https://www.designesy.org/changelog)
+- [Security](https://github.com/LE-VAI/designesy-org/security/policy)
+- [Privacy policy](https://www.designesy.org/privacy)
+
+## API Evangelist rating
+
+**Kin Score 42.1** — developing · rubric 0.27.0 · scored 2026-11-05
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 47.1 |
+| Contract governance | 79.1 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 49.5 |
+
+**Agent readiness 15.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 20.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/designesy-org/](https://apis.io/providers/designesy-org/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for designesy-org: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/designesy-org/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
